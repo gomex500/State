@@ -1,0 +1,44 @@
+.logo{
+    width: 40px;
+    border-radius: 5px;
+    padding: 2px;
+    /* background-color: #f2f2f2; */
+}
+
+.nav1{
+    background-color: #392a8c;
+    color: #f2f2f2;
+    margin-bottom: 50px;
+    /* box-shadow: 0 8px 32px 0 rgba(33, 243, 128, 0.37); */
+}
+
+.nav1 a{
+    color: #f2f2f2;;
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 18px;
+}
+.nav1 a:hover{
+    color: #252522;
+}
+
+.navbar-toggler{
+    font-size: 32px;
+    color: #f2f2f2;
+}
+
+.cont-text{
+    text-align: center;
+}
+
+.cont-card{
+    background-color: #f2f2f2;
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.cont-title{
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
